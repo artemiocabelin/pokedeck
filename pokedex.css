@@ -1,0 +1,42 @@
+#main {
+    width: 1200px;
+    height: 2500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    display: inline-block;
+    vertical-align: top;
+    width: 900px;
+    height: 2490px;
+    padding: 20px;
+}
+
+#viewer {
+    display: inline-block;
+    vertical-align: top;
+    border: 15px solid red;
+    height: 350px;
+    width: 170px;
+    padding:20px;
+}
+
+#viewer h1 {
+    text-align: center;
+}
+
+#viewer h4{
+    margin-top: -15px;
+}
+
+#viewer ul {
+    margin-top: -15px;
+}
+
+.height_data {
+    margin-top: -15px;
+}
+
+.weight_data {
+    margin-top: -15px;
+}
